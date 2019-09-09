@@ -1,0 +1,75 @@
+[submodule "builtin_item"]
+	path = builtin_item
+	url = https://notabug.org/TenPlus1/builtin_item
+[submodule "bonemeal"]
+	path = bonemeal
+	url = https://notabug.org/tenplus1/bonemeal
+[submodule "camera"]
+	path = camera
+	url = git@github.com:minetest-mods/camera.git
+[submodule "xdecor"]
+	path = xdecor
+	url = https://github.com/minetest-mods/xdecor
+[submodule "moreblocks"]
+	path = moreblocks
+	url = https://github.com/minetest-mods/moreblocks
+[submodule "awards"]
+	path = awards
+	url = git://github.com/rubenwardy/awards.git
+[submodule "3d_armor"]
+	path = 3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "bakedclay"]
+	path = bakedclay
+	url = https://notabug.org/tenplus1/bakedclay
+[submodule "basic_materials"]
+	path = basic_materials
+	url = https://gitlab.com/VanessaE/basic_materials.git
+[submodule "craftguide"]
+	path = craftguide
+	url = https://github.com/minetest-mods/craftguide
+[submodule "darkage"]
+	path = darkage
+	url = https://github.com/adrido/darkage
+[submodule "engrave"]
+	path = engrave
+	url = https://github.com/orwell96/engrave
+[submodule "frame"]
+	path = frame
+	url = https://github.com/minetest-mods/frame
+[submodule "minetest-hangglider"]
+	path = minetest-hangglider
+	url = https://notabug.org/Piezo_/minetest-hangglider
+[submodule "item_drop"]
+	path = item_drop
+	url = https://github.com/minetest-mods/item_drop
+[submodule "mesecons"]
+	path = mesecons
+	url = https://github.com/minetest-mods/mesecons
+[submodule "morelights"]
+	path = morelights
+	url = https://github.com/random-geek/morelights
+[submodule "pipeworks"]
+	path = pipeworks
+	url = https://gitlab.com/VanessaE/pipeworks
+[submodule "quartz"]
+	path = quartz
+	url = https://github.com/minetest-mods/quartz
+[submodule "ropes"]
+	path = ropes
+	url = https://github.com/minetest-mods/ropes
+[submodule "screwdriver2"]
+	path = screwdriver2
+	url = https://github.com/12Me21/screwdriver2
+[submodule "stamina"]
+	path = stamina
+	url = https://github.com/minetest-mods/stamina
+[submodule "lib_trm"]
+	path = lib_trm
+	url = https://github.com/ShadMOrdre/lib_trm
+[submodule "trash_can"]
+	path = trash_can
+	url = https://github.com/minetest-mods/trash_can
+[submodule "treecapitator"]
+	path = treecapitator
+	url = https://github.com/HybridDog/treecapitator
