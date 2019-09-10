@@ -73,3 +73,6 @@
 [submodule "treecapitator"]
 	path = treecapitator
 	url = https://github.com/HybridDog/treecapitator
+[submodule "bags"]
+	path = bags
+	url = https://github.com/cornernote/minetest-bags
