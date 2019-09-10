@@ -76,3 +76,6 @@
 [submodule "bags"]
 	path = bags
 	url = https://github.com/cornernote/minetest-bags
+[submodule "boost_cart"]
+	path = boost_cart
+	url = https://github.com/SmallJoker/boost_cart.git
