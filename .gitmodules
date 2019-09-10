@@ -79,3 +79,6 @@
 [submodule "boost_cart"]
 	path = boost_cart
 	url = https://github.com/SmallJoker/boost_cart.git
+[submodule "player_textures"]
+	path = player_textures
+	url = https://github.com/PilzAdam/player_textures
