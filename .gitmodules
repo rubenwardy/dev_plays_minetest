@@ -82,3 +82,9 @@
 [submodule "player_textures"]
 	path = player_textures
 	url = https://github.com/PilzAdam/player_textures
+[submodule "flowerpot"]
+	path = flowerpot
+	url = https://github.com/minetest-mods/flowerpot
+[submodule "drawers"]
+	path = drawers
+	url = https://github.com/minetest-mods/drawers
