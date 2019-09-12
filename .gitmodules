@@ -88,3 +88,12 @@
 [submodule "drawers"]
 	path = drawers
 	url = https://github.com/minetest-mods/drawers
+[submodule "digilines"]
+	path = digilines
+	url = https://github.com/minetest-mods/digilines
+[submodule "signs_lib"]
+	path = signs_lib
+	url = https://gitlab.com/VanessaE/signs_lib
+[submodule "basic_signs"]
+	path = basic_signs
+	url = https://gitlab.com/VanessaE/basic_signs
