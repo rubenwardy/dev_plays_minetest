@@ -97,3 +97,6 @@
 [submodule "basic_signs"]
 	path = basic_signs
 	url = https://gitlab.com/VanessaE/basic_signs
+[submodule "digistuff"]
+	path = digistuff
+	url = https://cheapiesystems.com/git/digistuff
